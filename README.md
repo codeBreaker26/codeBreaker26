@@ -50,8 +50,6 @@
 ## 🎯 Let's Connect!  
 📧 **Email:** [ishansahani2601@gmail.com](mailto:ishansahani2601@gmail.com)  
 💼 **LinkedIn:** [ishan-sahani](https://www.linkedin.com/in/ishan-sahani-b287b1228/)  
-📝 **Portfolio (if any):** *Coming Soon!*  
-
 ---
 
 🌟 _“Code. Build. Learn. Repeat.”_ 🚀  
