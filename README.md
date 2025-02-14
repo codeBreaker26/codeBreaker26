@@ -25,7 +25,7 @@
 - 🎓 **Electronics & Communication Engineering** student at **IIIT Guwahati** (2021-2025).  
 - 💻 Passionate about **web development**, **backend systems**, and **AI-driven applications**.  
 - 🔥 **MERN stack developer** with experience in **Next.js, React.js, Node.js, and Tailwind CSS**.  
-- 🏆 **Competitive Programmer**: **3⭐ on CodeChef, 400+ DSA problems solved on GFG & LeetCode**.  
+- 🏆 **Competitive Programmer**: **3⭐ on CodeChef, 500+ DSA problems solved on GFG & LeetCode**.  
 - 📊 Interested in **DevOps, CI/CD Pipelines, and Containerization with Docker**.  
 
 ---
