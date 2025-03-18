@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Ishan Sahani  
-🚀 **Full Stack Developer | AI & Web Enthusiast | Competitive Programmer**  
+🚀 **Full Stack Developer | React Native Developer | AI & Web Enthusiast | Competitive Programmer**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishan-sahani-b287b1228/">
